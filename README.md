@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Mayelin Stefania Aguilar
 
-<!--
-**Stefania2/Stefania2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniera electrónica en formación con experiencia en análisis de datos, automatización y optimización de procesos.
 
-Here are some ideas to get you started:
+## Tecnologías
+Python | SQL | Pandas | Scikit-learn | Power BI | Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Intereses
+Data Science
+Supply Chain Analytics
+Machine Learning
+Automatización de procesos
+
+## Proyectos destacados
+
+
+
