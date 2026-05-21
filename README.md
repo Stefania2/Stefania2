@@ -1,18 +1,61 @@
-# Hola, soy Mayelin Stefania Aguilar
+# Hola, soy Mayelin Stefania Aguilar 
 
-Ingeniera electrónica en formación con experiencia en análisis de datos, automatización y optimización de procesos.
+Ingeniera electrónica en formación apasionada por la tecnología, el análisis de datos y el desarrollo de soluciones inteligentes aplicadas a la automatización, IoT y Machine Learning.
 
-## Tecnologías
-Python | SQL | Pandas | Scikit-learn | Power BI | Excel
+Actualmente me enfoco en proyectos relacionados con sistemas embebidos, analítica de datos, visión computacional y procesamiento inteligente de señales, integrando hardware y software para resolver problemas reales.
 
-## Intereses
-Data Science
-Supply Chain Analytics
-Machine Learning
-Automatización de procesos
+## 🚀 Tecnologías y Herramientas
 
-## Proyectos destacados
+### Lenguajes y análisis de datos
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Power BI
+- Excel
 
-Sentinel
-https://github.com/Stefania2/sentinel1 
+### Electrónica e IoT
+- ESP32
+- Arduino
+- MQTT
+- Sensores inteligentes
+- Sistemas embebidos
+- Automatización
+
+### Machine Learning y Ciencia de Datos
+- Clasificación de datos
+- Procesamiento de señales
+- Deep Learning
+- Visualización de datos
+- Modelos predictivos
+
+## 🎯 Intereses
+
+- Data Science
+- Machine Learning
+- Inteligencia Artificial aplicada
+- Automatización de procesos
+- Sistemas IoT
+- Analítica para Supply Chain
+- Electrónica aplicada a investigación
+- Física y matemáticas aplicadas
+
+
+## 📌 Proyectos destacados
+
+### Sentinel
+Plataforma enfocada en análisis de datos y visualización interactiva.
+
+🔗 Demo:  
+(https://stefania2.github.io/data-dnp/)
+
+🔗 Repositorio:  
+( https://github.com/Stefania2/sentinel1)
+
+## 🌎 Actualmente
+
+- Estudiante de Ingeniería Electrónica noveno semestre
+- Desarrollo de proyectos IoT y Machine Learning
+- Investigación aplicada en automatización y análisis inteligente de datos
 
