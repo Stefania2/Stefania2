@@ -44,13 +44,15 @@ Actualmente me enfoco en proyectos relacionados con sistemas embebidos, analíti
 
 ## 📌 Proyectos destacados
 
-### Análisis de datos de DNP (Departamento nacional de planeación)
+### Análisis de datos 
 🔗 Demo:  
-(https://stefania2.github.io/data-dnp/)
+(https://stefania2.github.io/data-dnp/) de DNP (Departamento nacional de planeación)
+(https://stefania2.github.io/cubesat/) Análisis de telemetría con Cubesat Strand-1
 
 🔗 Repositorio:  
 ### Sentinel
 Plataforma enfocada en análisis de datos y visualización interactiva.
+
 
 ( https://github.com/Stefania2/sentinel1)
 
