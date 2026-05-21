@@ -44,13 +44,14 @@ Actualmente me enfoco en proyectos relacionados con sistemas embebidos, analíti
 
 ## 📌 Proyectos destacados
 
-### Sentinel
-Plataforma enfocada en análisis de datos y visualización interactiva.
-
+### Análisis de datos de DNP (Departamento nacional de planeación)
 🔗 Demo:  
 (https://stefania2.github.io/data-dnp/)
 
 🔗 Repositorio:  
+### Sentinel
+Plataforma enfocada en análisis de datos y visualización interactiva.
+
 ( https://github.com/Stefania2/sentinel1)
 
 ## 🌎 Actualmente
