@@ -46,8 +46,8 @@ Actualmente me enfoco en proyectos relacionados con sistemas embebidos, analíti
 
 ### Análisis de datos 
 🔗 Demo:  
-(https://stefania2.github.io/data-dnp/) de DNP (Departamento nacional de planeación)
-(https://stefania2.github.io/cubesat/) Análisis de telemetría con Cubesat Strand-1
+- (https://stefania2.github.io/data-dnp/) de DNP (Departamento nacional de planeación)
+- (https://stefania2.github.io/cubesat/) Análisis de telemetría con Cubesat Strand-1
 
 🔗 Repositorio:  
 ### Sentinel
